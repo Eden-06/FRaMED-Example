@@ -10,7 +10,7 @@
     <secondSegment/>
     <boundaries>
       <topLeft x="24" y="36"/>
-      <bottomRight x="231" y="158"/>
+      <bottomRight x="233" y="160"/>
     </boundaries>
   </elements>
   <elements xsi:type="org.framed.orm.model:Shape" name="Company" outgoingRelations="//@elements.12" type="NaturalType">
