@@ -100,7 +100,7 @@
           <elements xsi:type="org.framed.orm.model:Shape" name="Target" incomingRelations="//@elements.7/@model/@elements.0/@model/@elements.2 //@elements.7/@model/@elements.0/@model/@elements.3" type="RoleType">
             <firstSegment/>
             <secondSegment>
-              <elements name="withdraw(amount:Money)"/>
+              <elements name="deposite(amount:Money)"/>
             </secondSegment>
             <description name="*"/>
             <boundaries>
