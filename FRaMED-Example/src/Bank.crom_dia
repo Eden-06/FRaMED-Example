@@ -129,8 +129,8 @@
       </elements>
     </model>
     <boundaries>
-      <topLeft x="816" y="96"/>
-      <bottomRight x="1036" y="265"/>
+      <topLeft x="816" y="73"/>
+      <bottomRight x="1037" y="243"/>
     </boundaries>
   </elements>
   <elements xsi:type="org.framed.orm.model:Shape" name="DateTime" type="DataType">
@@ -275,7 +275,7 @@
     </bendpoints>
   </elements>
   <elements xsi:type="org.framed.orm.model:Relation" type="Fulfillment" target="//@elements.9" source="//@elements.1" referencedRoles="//@elements.9/@model/@elements.1"/>
-  <elements xsi:type="org.framed.orm.model:Relation" type="Fulfillment" target="//@elements.7" source="//@elements.4" referencedRoles="//@elements.9/@model/@elements.3"/>
+  <elements xsi:type="org.framed.orm.model:Relation" type="Fulfillment" target="//@elements.7" source="//@elements.4" referencedRoles="//@elements.7/@model/@elements.0"/>
   <elements xsi:type="org.framed.orm.model:Relation" type="Fulfillment" target="//@elements.9" source="//@elements.4" referencedRoles="//@elements.9/@model/@elements.3"/>
   <elements xsi:type="org.framed.orm.model:Relation" type="Fulfillment" target="//@elements.9" source="//@elements.7" referencedRoles="//@elements.9/@model/@elements.2"/>
 </org.framed.orm.model:Model>
